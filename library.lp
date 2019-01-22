@@ -1,0 +1,11 @@
+(librepcb_library 489cb650-bff3-4f0e-8b40-6569ce326cb8
+ (name "OSRAM")
+ (description "Optoelectronics and -semiconductors (inofficial).")
+ (keywords "osram,opto,semiconductors")
+ (author "LibrePCB")
+ (version "0.1")
+ (created 2019-01-22T20:58:02Z)
+ (deprecated false)
+ (url "")
+ (dependency a9ddf0c6-9b1c-4730-b300-01b4f192ad40)
+)
