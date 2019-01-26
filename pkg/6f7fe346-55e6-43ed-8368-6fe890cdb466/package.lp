@@ -1,6 +1,6 @@
 (librepcb_package 6f7fe346-55e6-43ed-8368-6fe890cdb466
- (name "OSRAM CHIPLED 0603")
- (description "OSRAM Chip LED 0603.\n\nLength: 1.6mm\nWidth: 0.8mm")
+ (name "OSRAM CHIPLED 0603 Diffused")
+ (description "OSRAM Chip LED 0603. Diffused lens.\n\nLength: 1.6mm\nWidth: 0.8mm")
  (keywords "1608,0603,led,chip,chipled,osram")
  (author "Danilo B.")
  (version "0.3")

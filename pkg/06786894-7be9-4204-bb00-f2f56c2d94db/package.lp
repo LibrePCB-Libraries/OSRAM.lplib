@@ -1,6 +1,6 @@
 (librepcb_package 06786894-7be9-4204-bb00-f2f56c2d94db
- (name "OSRAM CHIPLED 0805")
- (description "OSRAM Chip LED 0805.\n\nLength: 2.0mm\nWidth: 1.25mm")
+ (name "OSRAM CHIPLED 0805 Diffused")
+ (description "OSRAM Chip LED 0805. Diffused lens.\n\nLength: 2.0mm\nWidth: 1.25mm")
  (keywords "2012,0805,led,chip,chipled,osram")
  (author "Danilo B.")
  (version "0.3")
