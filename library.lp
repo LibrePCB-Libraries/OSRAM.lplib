@@ -3,7 +3,7 @@
  (description "Optoelectronics and -semiconductors (inofficial).")
  (keywords "osram,opto,semiconductors")
  (author "LibrePCB")
- (version "0.1")
+ (version "0.1.1")
  (created 2019-01-22T20:58:02Z)
  (deprecated false)
  (url "")
