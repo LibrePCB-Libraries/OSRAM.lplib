@@ -6,6 +6,6 @@
  (version "0.1.1")
  (created 2019-01-22T20:58:02Z)
  (deprecated false)
- (url "")
+ (url "https://github.com/LibrePCB-Libraries/OSRAM.lplib")
  (dependency a9ddf0c6-9b1c-4730-b300-01b4f192ad40)
 )
