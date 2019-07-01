@@ -2,7 +2,7 @@
 
 ## Description
 
-Optoelectronics by OSRAM. Inofficial.
+Optoelectronics by OSRAM. Unofficial.
 
 This is a [LibrePCB](https://librepcb.org) library!
 

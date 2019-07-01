@@ -1,6 +1,6 @@
 (librepcb_library 489cb650-bff3-4f0e-8b40-6569ce326cb8
  (name "OSRAM")
- (description "Optoelectronics and -semiconductors (inofficial).")
+ (description "Optoelectronics and -semiconductors (unofficial).")
  (keywords "osram,opto,semiconductors")
  (author "LibrePCB")
  (version "0.1.1")
