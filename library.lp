@@ -3,7 +3,7 @@
  (description "Optoelectronics and -semiconductors (unofficial).")
  (keywords "osram,opto,semiconductors")
  (author "LibrePCB")
- (version "0.1.1")
+ (version "0.1.2")
  (created 2019-01-22T20:58:02Z)
  (deprecated false)
  (url "https://github.com/LibrePCB-Libraries/OSRAM.lplib")
