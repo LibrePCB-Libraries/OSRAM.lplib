@@ -1,0 +1,10 @@
+(librepcb_package_category 7c906a3b-33ab-4d6c-afaa-0fd5f12196bb
+ (name "OSRAM")
+ (description "")
+ (keywords "osram,light,led")
+ (author "LibrePCB")
+ (version "0.1")
+ (created 2022-05-02T20:27:43Z)
+ (deprecated false)
+ (parent 194951ec-03dd-412a-9828-70c40bbdd22d)
+)
