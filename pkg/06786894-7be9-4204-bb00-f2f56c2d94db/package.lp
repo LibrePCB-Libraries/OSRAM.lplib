@@ -3,7 +3,7 @@
  (description "OSRAM Chip LED 0805. Diffused lens.\n\nLength: 2.0mm\nWidth: 1.25mm")
  (keywords "2012,0805,led,chip,chipled,osram")
  (author "Danilo B.")
- (version "0.4")
+ (version "0.5")
  (created 2019-01-22T21:11:37Z)
  (deprecated false)
  (generated_by "")

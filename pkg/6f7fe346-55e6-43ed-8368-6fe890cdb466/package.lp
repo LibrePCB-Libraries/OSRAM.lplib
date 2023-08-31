@@ -3,7 +3,7 @@
  (description "OSRAM Chip LED 0603. Diffused lens.\n\nLength: 1.6mm\nWidth: 0.8mm")
  (keywords "1608,0603,led,chip,chipled,osram")
  (author "Danilo B.")
- (version "0.4")
+ (version "0.5")
  (created 2019-01-22T21:11:37Z)
  (deprecated false)
  (generated_by "")

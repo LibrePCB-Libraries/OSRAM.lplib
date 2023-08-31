@@ -3,7 +3,7 @@
  (description "Diffused Red LED (633 nm).\n\nDigikey: 475-1278-1-ND")
  (keywords "osram,led,red,diffused")
  (author "Danilo B.")
- (version "0.1")
+ (version "0.2")
  (created 2019-01-22T21:00:32Z)
  (deprecated false)
  (generated_by "")

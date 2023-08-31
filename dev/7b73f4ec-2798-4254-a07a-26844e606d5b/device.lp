@@ -3,7 +3,7 @@
  (description "Diffused Green LED (579 nm).\n\nDigikey: 475-1410-1-ND")
  (keywords "osram,led,green,diffused")
  (author "Danilo B.")
- (version "0.1")
+ (version "0.2")
  (created 2019-01-22T22:52:46Z)
  (deprecated false)
  (generated_by "")

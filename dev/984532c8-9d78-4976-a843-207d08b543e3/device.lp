@@ -3,7 +3,7 @@
  (description "Diffused Yellow LED (588 nm).\n\nDigikey: 475-2560-1-ND")
  (keywords "osram,led,yellow,diffused")
  (author "Danilo B.")
- (version "0.1")
+ (version "0.2")
  (created 2019-01-22T22:51:11Z)
  (deprecated false)
  (generated_by "")
